@@ -10,7 +10,7 @@ from pytube.helpers import uniqueify
 logger = logging.getLogger(__name__)
 
 
-class Channel(Playlist):
+class ChannelShorts(Playlist):
     def __init__(self, url: str, proxies: Optional[Dict[str, str]] = None):
         """Construct a :class:`Channel <Channel>`.
 

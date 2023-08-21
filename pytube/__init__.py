@@ -16,4 +16,5 @@ from pytube.query import CaptionQuery, StreamQuery
 from pytube.__main__ import YouTube
 from pytube.contrib.playlist import Playlist
 from pytube.contrib.channel import Channel
+from pytube.contrib.channel_shorts import ChannelShorts
 from pytube.contrib.search import Search
