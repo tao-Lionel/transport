@@ -1,0 +1,22 @@
+{
+    "uploads": [
+        {
+            "channelUrl": "https://www.youtube.com/channel/UCkQEYwVkQwA19O2D0n_clFg",
+            "channelName": "sample_channel",
+            "videos": [
+                {
+                    "id": "samplevideoid",
+                    "url": "https://www.youtube.com/watch?v=samplevideoid",
+                    "name": "sample video",
+                    "publishDate": "2022-11-24 00:00:00",
+                    "published": [
+                        "DY",
+                        "KS",
+                        "XHS"
+                    ]
+                }
+            ],
+            "category": "1"
+        }
+    ]
+}
